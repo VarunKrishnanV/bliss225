@@ -71,24 +71,24 @@ ul li
 	padding-right: 25px;
 }
 
-@media only screen and (max-width:500px)
+/* @media only screen and (max-width:500px)
 {
 	.head{
 		font-size: 25px;
 	}
-}
+} */
 .para
 {
 	font-size: 20px;
 }
 
 
-@media only screen and (max-width:700px)
+/* @media only screen and (max-width:700px)
 {
 	.para{
 		font-size: 20px;
 	}
-}
+} */
 h1
 {
 	font-size: 50px;
